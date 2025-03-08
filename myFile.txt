@@ -1,1 +1,2 @@
 This is the initial change
+This is a change from remote repository to practice stashing to fix merge conflict.
