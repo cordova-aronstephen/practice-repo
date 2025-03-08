@@ -1,3 +1,4 @@
-This is the initial change
+This is the initial change.
 This is a change from remote repository to practice stashing to fix merge conflict.
 This is a change from local repository to practice stashing to fix merge conflict.
+This is another change from remote repository to practice to fix merge conflicts my merge commits.
